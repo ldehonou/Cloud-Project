@@ -1,0 +1,30 @@
+# Dépendances
+/node_modules
+/.pnp
+.pnp.js
+
+# fichiers de build
+/build
+/dist
+
+# Fichiers de configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de cache
+.npm
+.yarn-cache
+.yarn-integrity
+
+# Fichiers journaux
+yarn-debug.log*
+.yarn-error.log*
+npm-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Données de la base de données
+/db-data
