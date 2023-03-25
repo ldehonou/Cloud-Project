@@ -8,17 +8,15 @@ projet/
 ├── gestion-taches/
 │   ├── node_modules/
 │   ├── public/
-│   │   ├── index.html
-│   │   ├── favicon.ico
-│   │   └── manifest.json
+│   │   └── index.html
 │   ├── src/
+│   │   ├── components/
+│   │   │   ├── AjouterTache.js
+│   │   │   ├── ModifierEtatTache.js
+│   │   │   └── SupprimerTache.js
 │   │   ├── api.js
 │   │   ├── App.js
-│   │   ├── index.js
-│   │   ├── ModifierEtatTache.js
-│   │   ├── SupprimerTache.js
-│   │   └── Tache.js
-│   ├── .env
+│   │   └── index.js
 │   ├── .gitignore
 │   ├── package-lock.json
 │   └── package.json
