@@ -1,0 +1,28 @@
+projet/
+├── api/
+│   ├── node_modules/
+│   ├── Dockerfile
+│   ├── index.js
+│   ├── package-lock.json
+│   └── package.json
+├── gestion-taches/
+│   ├── node_modules/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── favicon.ico
+│   │   └── manifest.json
+│   ├── src/
+│   │   ├── api.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── ModifierEtatTache.js
+│   │   ├── SupprimerTache.js
+│   │   └── Tache.js
+│   ├── .env
+│   ├── .gitignore
+│   ├── package-lock.json
+│   └── package.json
+├── db-data/
+│   └── ...
+├── docker-compose.yml
+└── README.md
