@@ -2,6 +2,7 @@
 /node_modules
 /.pnp
 .pnp.js
+api/node_modules
 
 # fichiers de build
 /build
