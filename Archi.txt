@@ -7,6 +7,7 @@ projet/
 │   └── package.json
 ├── gestion-taches/
 │   ├── node_modules/
+│   ├── Dockerfile
 │   ├── public/
 │   │   └── index.html
 │   ├── src/
@@ -22,5 +23,7 @@ projet/
 │   └── package.json
 ├── db-data/
 │   └── ...
+├── db-init-scripts/
+│   └── init.sql
 ├── docker-compose.yml
 └── README.md
