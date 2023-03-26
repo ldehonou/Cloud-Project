@@ -23,5 +23,7 @@ projet/
 │   └── package.json
 ├── db-data/
 │   └── ...
+├── db-init-scripts/
+│   └── init.sql
 ├── docker-compose.yml
 └── README.md
